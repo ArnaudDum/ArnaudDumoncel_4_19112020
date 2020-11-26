@@ -658,7 +658,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #373737!important;
 }
 
 .container {
@@ -743,7 +743,7 @@ h4 {
 }
 
 .white {
-    color: #FFF!important;
+    color: #373737!important;
 }
 
 .portfolio-thumb {
@@ -786,12 +786,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    color: #FFF!important;
+    color: #373737!important;
     background: #F3976C;
 }
 
 .btn-atomic-tangerine:hover {
-    color: #FFF!important;
+    color: #373737!important;
     background: #c27956!important;
 }
 
@@ -1104,21 +1104,14 @@ h2 {
 
 .titre-banner {
     font-size: 4rem;
-    color: #FFF!important;
 }
 
 .titre-banner-contact {
     font-size: 5rem;
-    color: #FFF!important;
 }
 
 .p-banner {
     font-size: 2.5rem;
-    color: #FFF!important;
-}
-
-.titre-banner-accueil {
-    color: #FFF!important;
 }
 
 .form-group {
