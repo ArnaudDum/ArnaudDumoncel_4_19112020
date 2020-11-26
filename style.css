@@ -743,7 +743,8 @@ h4 {
 }
 
 .white {
-    color: #373737!important;
+    color: #FFF!important;
+    font-weight: bold;
 }
 
 .portfolio-thumb {
@@ -761,7 +762,7 @@ h4 {
 
 .black-background {
     padding: 40px 40px 40px 40px;
-    background-color: rgba(165,147,99,.7);
+    background-color: #5A3A36;
 }
 
 .bold-link {
